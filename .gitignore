@@ -9,3 +9,13 @@
 .cxx
 *.keystore
 **/build/
+.env*
+**/.env*
+*.db*
+**/.db*
+*.json*
+**/.json*
+*.csv*
+**/.csv*
+**/__pycache__/
+local.properties
